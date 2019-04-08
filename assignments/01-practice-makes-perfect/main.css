@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+}
+
+.aa {
+  background-color: #292929;
+  color: white;
+  padding: 30px;
+}
+
+.hp-news-author, .hp-news-category, .hp-news-date {
+  font-family: Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: bolder;
+  display: block;
+  margin: 0;
+}
+
+.hp-news-title {
+  text-transform: capitalize;
+  font-size: 48px;
+  font-weight: lighter;
+  margin: 0;
+}

@@ -70,7 +70,7 @@
 .sample-07 {
   background-color: #ffa3fa;
   background-image: url(http://67.media.tumblr.com/30b1b0d0a42bca3759610242a1ff0348/tumblr_nnjxy1GQAA1tpo3v2o1_540.jpg);
-  background-repeat: repeat-y;
+  background-repeat: no-repeat;
   color: #fff;
   height: 600px;
   width: 600px;
@@ -87,7 +87,7 @@
 }
 
 .sample-09 {
-  background: #ffa3fa bottom right no-repeat;
+  background: #ffa3fa;
   color: #222;
   height: 600px;
   width: 600px;
